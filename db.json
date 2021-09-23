@@ -1,0 +1,36 @@
+{
+  "ventas": {
+    "listado": [
+      {
+        "fecha": "21/09/2021",
+        "codigo": "PM0001",
+        "total": 174950,
+        "vendedor": "Alfonso De La Hoz"
+      },
+      {
+        "fecha": "21/09/2021",
+        "codigo": "PM0002",
+        "total": 175950,
+        "vendedor": "Daniel Felipe Solarte"
+      },
+      {
+        "fecha": "21/09/2021",
+        "codigo": "PM0003",
+        "total": 176950,
+        "vendedor": "Maria Susana Perez"
+      },
+      {
+        "fecha": "21/09/2021",
+        "codigo": "PM0004",
+        "total": 177950,
+        "vendedor": "Ismael Alexander Carvajal"
+      },
+      {
+        "fecha": "21/09/2021",
+        "codigo": "PM0005",
+        "total": 178950,
+        "vendedor": "Alvaro Jose Tobar"
+      }
+    ]
+  }
+}
