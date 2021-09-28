@@ -30,5 +30,10 @@
         "total": 178950,
         "vendedor": "Alvaro Jose Tobar Mayorquín"
       }
+    ],
+    "usuarios" : [
+      {
+        "identificacion": 1113692937
+      } 
     ]
 }
