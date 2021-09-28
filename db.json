@@ -30,22 +30,40 @@
         "total": 178950,
         "vendedor": "Alvaro Jose Tobar Mayorquín"
       }
-    ],
+    ]
+}
 
- "usuarios": [
-  {
-    "identificacion": 1113692937,
-    "nombre": "Álvaro José Tobar Mayorquín",
-    "rol": "Vendedor",
-    "estado": "Activo",
-    "contraseña": "djpawodjwd93049@ede"
-  },
-  {
-    "identificacion": 1114555555,
-    "nombre": "Daniel Felipe Solarte Marín",
-    "rol": "Operario",
-    "estado": "Activo",
-    "contraseña": "djpawodjwd93049@ede"
-  }
-  ]
+{
+  "ventas": [
+      {
+        "fecha": "21/09/2021",
+        "codigo": "PM0001",
+        "total": 174950,
+        "vendedor": "Alfonso Leonardo De La Hoz Bernal"
+      },
+      {
+        "fecha": "21/09/2021",
+        "codigo": "PM0002",
+        "total": 175950,
+        "vendedor": "Daniel Felipe Solarte Marín"
+      },
+      {
+        "fecha": "21/09/2021",
+        "codigo": "PM0003",
+        "total": 176950,
+        "vendedor": "Maria Susana Perez"
+      },
+      {
+        "fecha": "21/09/2021",
+        "codigo": "PM0004",
+        "total": 177950,
+        "vendedor": "Ismael Alexander Carvajal Gonzáles"
+      },
+      {
+        "fecha": "21/09/2021",
+        "codigo": "PM0005",
+        "total": 178950,
+        "vendedor": "Alvaro Jose Tobar Mayorquín"
+      }
+    ]
 }
