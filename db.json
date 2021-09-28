@@ -32,3 +32,22 @@
       }
     ]
 }
+
+{
+ "usuarios" [
+  {
+    "identificacion": 1113692937,
+    "nombre": "Álvaro José Tobar Mayorquín",
+    "rol": "Vendedor",
+    "estado": "Activo",
+    "contraseña": "djpawodjwd93049@ede"
+  },
+  {
+    "identificacion": 1114555555,
+    "nombre": "Daniel Felipe Solarte Marín",
+    "rol": "Operario",
+    "estado": "Activo",
+    "contraseña": "djpawodjwd93049@ede"
+  }
+  ]
+}
