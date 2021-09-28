@@ -29,18 +29,21 @@
         "codigo": "PM0005",
         "total": 178950,
         "vendedor": "Alvaro Jose Tobar Mayorquín"
-      },
-      {
-        "fecha": "21/09/2021",
-        "codigo": "PM0005",
-        "total": 178950,
-        "vendedor": "Alvaro Jose Tobar Mayorquín"
       }
     ],
     "usuarios": [
       {
         "identificacion": 1113692937,
-        "nombre": "Alvaro José Tobar Mayorquín"
-      } 
+        "nombre": "Alvaro José Tobar Mayorquín",
+        "rol": "Vendedor",
+        "estado": "Activo",
+        "contraseña": "1e3q3@frkfim"
+      },
+        "identificacion": 1114596738,
+        "nombre": "Daniel Felipe Solarte Marín",
+        "rol": "Operario",
+        "estado": "Activo",
+        "contraseña": "1e3q3@frkfim"
+      }
     ]
 }
