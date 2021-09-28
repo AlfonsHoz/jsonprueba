@@ -31,9 +31,10 @@
         "vendedor": "Alvaro Jose Tobar Mayorquín"
       }
     ],
-    "usuarios" : [
+    "usuarios": [
       {
-        "identificacion": 1113692937
+        "identificacion": 1113692937,
+        "nombre": "Alvaro José Tobar Mayorquín"
       } 
     ]
 }
