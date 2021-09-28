@@ -45,6 +45,13 @@
         "rol": "Operario",
         "estado": "Activo",
         "contraseña": "1e3q3@frkfim"
+      },
+       {
+        "identificacion": 1114596738,
+        "nombre": "Alfonso Leonardo de la Hoz",
+        "rol": "Administrador",
+        "estado": "Activo",
+        "contraseña": "1e3q3@frkfim"
       }
     ]
 }
