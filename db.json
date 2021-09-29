@@ -53,5 +53,13 @@
         "estado": "Activo",
         "contraseña": "1e3q3@frkfim"
       }
+    ],
+"productos": [
+      {
+        "codigo_producto": "PN0001",
+        "nombre_producto": "Zapatos elegantes de cuero",
+        "precio_unitario": 174000,
+        "cantidad": 2
+      }
     ]
 }
