@@ -2,33 +2,99 @@
   "ventas": [
       {
         "fecha": "21/09/2021",
-        "codigo": "PM0001",
+        "codigo": "V0001",
         "total": 174950,
-        "vendedor": "Alfonso Leonardo De La Hoz Bernal"
+        "vendedor": "Alfonso Leonardo De La Hoz Bernal",
+        "productos": [
+          {
+            "codigo_producto": "PN0001",
+            "nombre_producto": "Zapatos elegantes de cuero",
+            "precio_unitario": 174000,
+            "cantidad": 2, 
+            "total": 348000
+          },
+          {
+            "codigo_producto": "PN0002",
+            "nombre_producto": "Correa de cuero",
+            "precio_unitario": 95000,
+            "cantidad": 3, 
+            "total": 285000
+          },
+          {
+            "codigo_producto": "PN0003",
+            "nombre_producto": "Reloj de muñeca",
+            "precio_unitario": 73171,
+            "cantidad": 1, 
+            "total": 73171
+          }
+         ]
       },
       {
         "fecha": "21/09/2021",
-        "codigo": "PM0002",
+        "codigo": "V0002",
         "total": 175950,
-        "vendedor": "Daniel Felipe Solarte Marín"
+        "vendedor": "Daniel Felipe Solarte Marín",
+        "productos": [
+          {
+            "codigo_producto": "PN0002",
+            "nombre_producto": "Correa de cuero",
+            "precio_unitario": 95000,
+            "cantidad": 3, 
+            "total": 285000
+          },
+          {
+            "codigo_producto": "PN0003",
+            "nombre_producto": "Reloj de muñeca",
+            "precio_unitario": 73171,
+            "cantidad": 1, 
+            "total": 73171
+          }
+         ]
       },
       {
         "fecha": "21/09/2021",
-        "codigo": "PM0003",
+        "codigo": "V0003",
         "total": 176950,
-        "vendedor": "Maria Susana Perez"
+        "vendedor": "Maria Susana Perez",
+        "productos": [
+          {
+            "codigo_producto": "PN0003",
+            "nombre_producto": "Reloj de muñeca",
+            "precio_unitario": 73171,
+            "cantidad": 2, 
+            "total": 146342
+          }
+         ]
       },
       {
         "fecha": "21/09/2021",
-        "codigo": "PM0004",
+        "codigo": "V0004",
         "total": 177950,
-        "vendedor": "Ismael Alexander Carvajal Gonzáles"
+        "vendedor": "Ismael Alexander Carvajal González",
+        "productos": [
+          {
+            "codigo_producto": "PN0002",
+            "nombre_producto": "Correa de cuero",
+            "precio_unitario": 95000,
+            "cantidad": 3, 
+            "total": 285000
+          }
+         ]
       },
       {
         "fecha": "21/09/2021",
-        "codigo": "PM0005",
+        "codigo": "V0005",
         "total": 178950,
-        "vendedor": "Alvaro Jose Tobar Mayorquín"
+        "vendedor": "Alvaro Jose Tobar Mayorquín",
+        "productos": [
+          {
+            "codigo_producto": "PN0001",
+            "nombre_producto": "Zapatos elegantes de cuero",
+            "precio_unitario": 174000,
+            "cantidad": 1, 
+            "total": 174000
+          }
+         ]
       }
     ],
     "usuarios": [
