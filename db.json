@@ -136,15 +136,13 @@
         "codigo_producto": "PN0003",
         "nombre_producto": "Reloj de muñeca",
         "precio_unitario": 73171,
-        "cantidad": 1, 
-        "total": 73171
+        "cantidad": 1,
       },
       {
         "codigo_producto": "PN0003",
         "nombre_producto": "Reloj de muñeca",
         "precio_unitario": 73171,
-        "cantidad": 1, 
-        "total": 73171
+        "cantidad": 1,
       }
     ]
 }
