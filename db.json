@@ -5,6 +5,7 @@
         "codigo": "V0001",
         "total": 174950,
         "vendedor": "Alfonso Leonardo De La Hoz Bernal",
+        "id_usuario": 1113692937,
         "productos": [
           {
             "codigo_producto": "PN0001",
@@ -34,6 +35,7 @@
         "codigo": "V0002",
         "total": 175950,
         "vendedor": "Daniel Felipe Solarte Marín",
+        "id_usuario": 1114596738,
         "productos": [
           {
             "codigo_producto": "PN0002",
@@ -56,6 +58,7 @@
         "codigo": "V0003",
         "total": 176950,
         "vendedor": "Maria Susana Perez",
+        "id_usuario": 1113692938,
         "productos": [
           {
             "codigo_producto": "PN0003",
@@ -71,6 +74,7 @@
         "codigo": "V0004",
         "total": 177950,
         "vendedor": "Ismael Alexander Carvajal González",
+        "id_usuario": 1113692939,
         "productos": [
           {
             "codigo_producto": "PN0002",
@@ -86,6 +90,7 @@
         "codigo": "V0005",
         "total": 178950,
         "vendedor": "Alvaro Jose Tobar Mayorquín",
+        "id_usuario": 1113692940,
         "productos": [
           {
             "codigo_producto": "PN0001",
