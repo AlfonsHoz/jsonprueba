@@ -1,150 +1,32 @@
 {
-  "ventas": [
-      {
-        "fecha": "21/09/2021",
-        "codigo": "V0001",
-        "total": 174950,
-        "vendedor": "Alfonso Leonardo De La Hoz Bernal",
-        "id_usuario": 1113692937,
-        "productos": [
-          {
-            "codigo_producto": "PN0001",
-            "nombre_producto": "Zapatos elegantes de cuero",
-            "precio_unitario": 174000,
-            "cantidad": 2, 
-            "total": 348000
-          },
-          {
-            "codigo_producto": "PN0002",
-            "nombre_producto": "Correa de cuero",
-            "precio_unitario": 95000,
-            "cantidad": 3, 
-            "total": 285000
-          },
-          {
-            "codigo_producto": "PN0003",
-            "nombre_producto": "Reloj de muñeca",
-            "precio_unitario": 73171,
-            "cantidad": 1, 
-            "total": 73171
-          }
-         ]
-      },
-      {
-        "fecha": "21/09/2021",
-        "codigo": "V0002",
-        "total": 175950,
-        "vendedor": "Daniel Felipe Solarte Marín",
-        "id_usuario": 1114596738,
-        "productos": [
-          {
-            "codigo_producto": "PN0002",
-            "nombre_producto": "Correa de cuero",
-            "precio_unitario": 95000,
-            "cantidad": 3, 
-            "total": 285000
-          },
-          {
-            "codigo_producto": "PN0003",
-            "nombre_producto": "Reloj de muñeca",
-            "precio_unitario": 73171,
-            "cantidad": 1, 
-            "total": 73171
-          }
-         ]
-      },
-      {
-        "fecha": "21/09/2021",
-        "codigo": "V0003",
-        "total": 176950,
-        "vendedor": "Maria Susana Perez",
-        "id_usuario": 1113692938,
-        "productos": [
-          {
-            "codigo_producto": "PN0003",
-            "nombre_producto": "Reloj de muñeca",
-            "precio_unitario": 73171,
-            "cantidad": 2, 
-            "total": 146342
-          }
-         ]
-      },
-      {
-        "fecha": "21/09/2021",
-        "codigo": "V0004",
-        "total": 177950,
-        "vendedor": "Ismael Alexander Carvajal González",
-        "id_usuario": 1113692939,
-        "productos": [
-          {
-            "codigo_producto": "PN0002",
-            "nombre_producto": "Correa de cuero",
-            "precio_unitario": 95000,
-            "cantidad": 3, 
-            "total": 285000
-          }
-         ]
-      },
-      {
-        "fecha": "21/09/2021",
-        "codigo": "V0005",
-        "total": 178950,
-        "vendedor": "Alvaro Jose Tobar Mayorquín",
-        "id_usuario": 1113692940,
-        "productos": [
-          {
-            "codigo_producto": "PN0001",
-            "nombre_producto": "Zapatos elegantes de cuero",
-            "precio_unitario": 174000,
-            "cantidad": 1, 
-            "total": 174000
-          }
-         ]
-      }
-    ],
-    "usuarios": [
-      {
-        "identificacion": 1113692937,
-        "nombre": "Alvaro José Tobar Mayorquín",
-        "rol": "Vendedor",
-        "estado": "Activo",
-        "contraseña": "1e3q3@frkfim"
-      },
-      {
-        "identificacion": 1114596738,
-        "nombre": "Daniel Felipe Solarte Marín",
-        "rol": "Operario",
-        "estado": "Activo",
-        "contraseña": "1e3q3@frkfim"
-      },
-       {
-        "identificacion": 1114596738,
-        "nombre": "Alfonso Leonardo de la Hoz",
-        "rol": "Administrador",
-        "estado": "Activo",
-        "contraseña": "1e3q3@frkfim"
-      }
-    ],
-"productos": [
-      {
-        "codigo_producto": "PN0001",
-        "nombre_producto": "Zapatos elegantes de cuero",
-        "precio_unitario": 174000,
-        "cantidad": 2
-      },
-      {
-        "codigo_producto": "PN0003",
-        "nombre_producto": "Reloj de muñeca",
-        "precio_unitario": 73171,
-        "cantidad": 1, 
-        "total": 73171
-      },
-      {
-        "codigo_producto": "PN0003",
-        "nombre_producto": "Reloj de muñeca",
-        "precio_unitario": 73171,
-        "cantidad": 1, 
-        "total": 73171
-      }
-    ]
+  "pois": [
+    {
+      "nombre": "poi1",
+      "descripcion": "Descripción del poi 1",
+      "ubicacion": "mi casa",
+      "imagen": "@drawables/imgPoi1",
+      "puntuacion": 1
+    },
+    {
+      "nombre": "poi2",
+      "descripcion": "Descripción del poi 2",
+      "ubicacion": "mi casa",
+      "imagen": "@drawables/imgPoi2",
+      "puntuacion": 2
+    },
+    {
+      "nombre": "poi3",
+      "descripcion": "Descripción del poi 3",
+      "ubicacion": "mi casa",
+      "imagen": "@drawables/imgPoi3",
+      "puntuacion": 3
+    },
+    {
+      "nombre": "poi4",
+      "descripcion": "Descripción del poi 4",
+      "ubicacion": "mi casa",
+      "imagen": "@drawables/imgPoi4",
+      "puntuacion": 4
+    }
+  ]
 }
