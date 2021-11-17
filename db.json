@@ -1,4 +1,5 @@
-[
+{  
+    "pois": [
     {
       "nombre": "poi1",
       "descripcion": "Descripción del poi 1",
@@ -28,3 +29,4 @@
       "puntuacion": 4
     }
   ]
+} 
